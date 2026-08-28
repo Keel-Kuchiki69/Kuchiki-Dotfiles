@@ -1,0 +1,16 @@
+app.ytmdesktop.ytmdesktop
+com.github.tchx84.Flatseal
+com.rtosta.zapzap
+com.usebottles.bottles
+com.vysp3r.ProtonPlus
+dev.heppen.webapps
+dev.mariinkys.StarryDex
+io.github.cosmic_utils.cosmic-ext-applet-clipboard-manager
+io.github.cosmic_utils.cosmic-ext-applet-external-monitor-brightness
+io.github.cosmic_utils.sysinfo-applet
+it.mijorus.gearlever
+org.gnome.Loupe
+org.onlyoffice.desktopeditors
+org.qbittorrent.qBittorrent
+org.signal.Signal
+org.telegram.desktop

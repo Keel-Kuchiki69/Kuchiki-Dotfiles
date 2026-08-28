@@ -1,0 +1,5 @@
+Some([
+    "io.github.cosmic_utils.cosmic-ext-applet-external-monitor-brightness",
+    "com.system76.CosmicAppletTime",
+    "io.github.cosmic_utils.cosmic-ext-applet-clipboard-manager",
+])

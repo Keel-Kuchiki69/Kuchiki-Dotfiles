@@ -1,0 +1,11 @@
+[
+    Home,
+    Documents,
+    Downloads,
+    Music,
+    Pictures,
+    Videos,
+    Path("/home/kuchiki/Games"),
+    Path("/home/kuchiki/.local/share/Steam/steamapps/common"),
+    Path("/home/kuchiki/ES-DE"),
+]

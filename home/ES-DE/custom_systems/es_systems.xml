@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<systemList>
+
+    <system>
+        <name>recomps</name>
+        <fullname>Recompiled Games</fullname>
+
+        <path>%ROMPATH%/recomps</path>
+
+        <extension>.appimage .desktop .sh</extension>
+
+        <command label="Suspend ES-DE">%ENABLESHORTCUTS% %EMULATOR_OS-SHELL% %ROM%</command>
+        <command label="Keep ES-DE running">%RUNINBACKGROUND% %ENABLESHORTCUTS% %EMULATOR_OS-SHELL% %ROM%</command>
+        <command label="AppImage (Suspend ES-DE)">%EMULATOR_OS-SHELL% -c "%ROM%"</command>
+        <command label="AppImage (Keep ES-DE running)">%RUNINBACKGROUND% %EMULATOR_OS-SHELL% -c "%ROM%"</command>
+
+        <platform>pcwindows</platform>
+        <theme>recomps</theme>
+
+    </system>
+
+</systemList>

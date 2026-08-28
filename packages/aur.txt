@@ -1,0 +1,5 @@
+emulationstation-de
+goanime
+papyrus-wallpaper
+pcsx2-latest-bin
+rpcs3-bin

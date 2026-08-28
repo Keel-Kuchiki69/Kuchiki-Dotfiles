@@ -1,0 +1,101 @@
+## n3ds
+Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko).cci
+
+## ps2
+Bakugan - Battle Brawlers (USA) (En,Fr)
+Ben 10 - Protector of Earth (USA)
+Black (USA)
+Burnout 3 - Takedown (USA)
+Castlevania - Curse of Darkness (USA)
+Castlevania - Lament of Innocence (USA)
+Dead or Alive 2 (Europe) (En,Fr,De,Es,It)
+Ghost Rider (USA)
+God Hand (USA)
+God of War II (USA)
+God of War (USA)
+Gran Turismo 4 (USA) (v2.00)
+Ico (USA)
+Jak and Daxter Complete Trilogy (USA)
+Kingdom Hearts II (USA)
+Kingdom Hearts (USA)
+Manhunt 2 (USA)
+Manhunt (USA)
+Marvel vs. Capcom 2 - New Age of Heroes (USA)
+Metal Gear Solid 3 - Snake Eater (USA)
+Midnight Club 3 - DUB Edition Remix (USA)
+Naruto Shippuden - Ultimate Ninja 5 (Europe) (En,Fr,De,Es,It)
+Need for Speed - Most Wanted - Black Edition (USA)
+Need for Speed - Underground 2 (USA)
+Onimusha 3 - Demon Siege (USA)
+Ookami (USA)
+Prince of Persia - The Sands of Time (USA) (En,Fr,Es)
+Shadow of the Colossus (USA)
+Shin Megami Tensei - Persona 3 (USA)
+Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)
+Soulcalibur III (USA)
+Soulcalibur II (USA)
+Tony Hawk's Pro Skater 4 (USA) (v2.01)
+Tony Hawk's Underground 2 (USA)
+
+## ps3
+Asura's Wrath (USA) (En,Ja,Fr,De,Es,It)
+Asura's Wrath (USA) (En,Ja,Fr,De,Es,It).key
+Blades of Time (USA) (En,Fr,Es)
+Blades of Time (USA) (En,Fr,Es).key
+Bleach - Soul Resurreccion (USA)
+Bleach - Soul Resurreccion (USA).key
+Dante's Inferno (USA) (En,Fr,Es)
+Dante's Inferno (USA) (En,Fr,Es).key
+Drakengard 3 (USA) (En,Fr)
+Drakengard 3 (USA) (En,Fr).key
+God of War - Ascension (USA) (En,Fr,Es,Pt)
+God of War - Ascension (USA) (En,Fr,Es,Pt).key
+God of War III (USA) (v02.00)
+God of War III (USA) (v02.00).key
+Heavenly Sword (USA) (En,Fr,De,Es,It)
+Heavenly Sword (USA) (En,Fr,De,Es,It).key
+Infamous 2 (USA) (En,Fr,Es,Pt) (v02.00)
+Infamous 2 (USA) (En,Fr,Es,Pt) (v02.00).key
+Infamous (USA) (En,Fr,Es) (v02.00)
+Infamous (USA) (En,Fr,Es) (v02.00).key
+JoJo no Kimyou na Bouken - Eyes of Heaven (Japan)
+JoJo no Kimyou na Bouken - Eyes of Heaven (Japan).key
+Mortal Kombat - Komplete Edition (USA) (En,Fr,De,Es,It,Pt)
+Mortal Kombat - Komplete Edition (USA) (En,Fr,De,Es,It,Pt).key
+Oneechanbara Z - Kagura with NoNoNo! (Japan)
+Oneechanbara Z - Kagura with NoNoNo! (Japan).key
+Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It)
+Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).key
+Soulcalibur V (USA) (En,Ja,Fr,De,Es,It,Ru)
+Soulcalibur V (USA) (En,Ja,Fr,De,Es,It,Ru).key
+
+## psp
+Dead or Alive - Paradise (USA) (En,Ja,Fr,De)
+God of War - Chains of Olympus (USA)
+God of War - Ghost of Sparta (USA) (En,Fr,Es)
+Soulcalibur - Broken Destiny (USA) (En,Ja,Fr,De,Es,It,Ru)
+
+## psx
+Castlevania - Symphony of the Night (USA) (Track 1)
+Castlevania - Symphony of the Night (USA) (Track 2)
+Crash Bandicoot 2 - Cortex Strikes Back (USA)
+Crash Bandicoot (USA)
+CTR - Crash Team Racing (USA)
+Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Track 1)
+Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1) (Track 2)
+Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2) (Track 1)
+Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2) (Track 2)
+Resident Evil 3 - Nemesis (USA)
+Resident Evil (USA)
+
+## recomps
+soh.desktop
+
+## steam
+Bayonetta.sh
+DARK SOULS™ III.desktop
+Devil May Cry HD Collection.sh
+NieR:Automata™.desktop
+
+## wii
+DBZ BT3 ORINAL MUSICS

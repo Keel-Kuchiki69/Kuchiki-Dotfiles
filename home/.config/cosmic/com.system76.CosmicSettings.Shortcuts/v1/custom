@@ -1,0 +1,15 @@
+{
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "n",
+    ): Minimize,
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "e",
+        description: Some("Launch ES-DE"),
+    ): Spawn("es-de"),
+}
