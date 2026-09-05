@@ -3,3 +3,4 @@ goanime
 papyrus-wallpaper
 pcsx2-latest-bin
 rpcs3-bin
+linux-wallpaperengine-git
